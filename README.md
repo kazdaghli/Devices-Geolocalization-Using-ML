@@ -1,2 +1,2 @@
 # NetworkBasedGeolocation
-Challenge SigFox for geolocation based on Network Signal
+Challenge SigFox for  devices geolocalization based on Network Signal
